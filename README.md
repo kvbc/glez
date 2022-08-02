@@ -16,7 +16,7 @@ Corresponding "raw" OpenGL code
 
 ```c
 char * read_file (const char * const name) {
-    FILE * f = fopen(name, "rb");
+    FILE * const f = fopen(name, "rb");
     fseek(f, 0, SEEK_END);
     long flen = ftell(f);
     fseek(f, 0, SEEK_SET);

@@ -76,7 +76,3 @@ GLuint create_program () {
     }
 }
 ```
-
-and all of that is still without ALL the possible assertions  
-YEAH BABY, NO MORE ERRORS  
-NO MORE CRASHES THAT TAKE A WEEK TO DEBUG

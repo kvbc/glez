@@ -3,9 +3,9 @@ Single-header C/C++ GL/GLES wrapper trading performance for convenience
 
 Aiming to make the debugging process much easier 
 
-What if your program linking fails? well just delete the shaders I guess
-BUT WHAT IF YOU HAVE MULTIPLE PROGRAMS? how do you delete the other programs that came before it and all of its shaders?!
-As a perfectionist and no-boilerplate enthusiast, this and many other issues have been bothering me for way too long, so I've decided to make this little handy-dandy library
+# Why
+
+No more boilerplate for me
 
 # Examples
 
@@ -77,6 +77,6 @@ GLuint create_program () {
 }
 ```
 
-and all of that is still without ALL the possible assertions
-YEAH BABY, WE WANT ALL OF THEM
-NO MORE RANDOM CRASHES
+and all of that is still without ALL the possible assertions  
+YEAH BABY, NO MORE ERRORS  
+NO MORE CRASHES THAT TAKE A WEEK TO DEBUG

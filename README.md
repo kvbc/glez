@@ -1,6 +1,12 @@
 # GLEZ
 Single-header C/C++ GL/GLES wrapper trading performance for convenience
 
+Wrappers for
+- programs
+- shaders
+- textures
+- vertex arrays (VAO)
+
 # Why
 
 Enough boilerplate for me, sir  

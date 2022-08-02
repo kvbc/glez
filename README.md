@@ -76,3 +76,7 @@ GLuint create_program () {
     }
 }
 ```
+
+and all of that is still without ALL the possible assertions
+YEAH BABY, WE WANT ALL OF THEM
+NO MORE RANDOM CRASHES

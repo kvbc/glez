@@ -1,7 +1,7 @@
 # GLEZ
 Single-header C/C++ GL/GLES wrapper trading performance for convenience
 
-Wrappers for
+Wraps
 - programs
 - shaders
 - textures

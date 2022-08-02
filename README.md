@@ -3,7 +3,8 @@ Single-header C/C++ GL/GLES wrapper trading performance for convenience
 
 # Why
 
-Enough boilerplate for me, sir
+Enough boilerplate for me, sir  
+ENOUGH PAIN AND MISERY  
 ENOUGH PUTTING GLGETERROR() AND PRINTF'S ON EVERY LINE
 
 # Examples

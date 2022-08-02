@@ -5,7 +5,7 @@ Aiming to make the debugging process much easier
 
 # Why
 
-No more boilerplate for me
+Enough boilerplate for me, sir
 
 # Examples
 

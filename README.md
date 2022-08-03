@@ -11,7 +11,7 @@ Wraps
 
 Enough boilerplate for me, sir  
 ENOUGH PAIN AND MISERY  
-ENOUGH PUTTING GLGETERROR() AND PRINTF'S ON EVERY LINE (this lib does it for you)
+ENOUGH PUTTING GLGETERROR() AND PRINTF'S ON EVERY SINGLE LINE
 
 # Examples
 

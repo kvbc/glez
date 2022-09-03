@@ -9,9 +9,7 @@ Wraps
 
 # Why
 
-Enough boilerplate for me, sir  
-ENOUGH PAIN AND MISERY  
-ENOUGH PUTTING GLGETERROR() AND PRINTF'S ON EVERY SINGLE LINE
+Enough boilerplate for me, sir
 
 # Examples
 
